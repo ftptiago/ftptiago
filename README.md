@@ -1,7 +1,7 @@
 ## Olá eu sou o Fabrício Paixão 👋
 
 - 🔭 Estou trabalhando atualmente como suporte técnico de TI e desenvolvedor web Freelancer. 
-- 🌱 Aprendendo Python e MySQL.
+- 🌱 Aprendendo Java EE.
 - ✔️ Me atualizando sobre PHP 8
 - 👯 Estou procurando colaborar através de vídeo aulas no <a href="https://youtube.com/fabriciopaixao">YouTube</a>.
 - ⚡ Curiosidade: Sou formado em Gestão da Tecnologia da Informação e amo o desenvolvimento de sistemas.
