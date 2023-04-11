@@ -17,5 +17,5 @@
 <div>
   <a href="https://br.linkedin.com/in/fabriciopaixao" alt="Linkedin - Fabrício Paixão"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://youtube.com/fabriciopaixao" alt="Canal YouTube - Fabrício Paixão"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/sBYhV8T4" alt="Discord - Fabrício Paixão HD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/zvUwpyvfnE" alt="Discord - Fabrício Paixão HD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
